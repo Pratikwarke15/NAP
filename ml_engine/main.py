@@ -4,6 +4,9 @@ from fastapi.middleware.cors import CORSMiddleware
 import random
 import math
 
+
+#edit1
+
 app = FastAPI(title="NAP Trust Gravity ML Engine")
 
 # Enable CORS so the React app can call it
